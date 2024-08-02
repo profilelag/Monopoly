@@ -1,18 +1,77 @@
 [
-    "Take a trip to reading railroad. If you pass go, collect $200.",
-    "Advance to Boardwalk.",
-    "Bank pays you dividend of $50.",
-    "Advance to the next railroad. If unowned, you may buy it from the bank. If owned, pay the owner twice the rent to which they are otherwise entitled. If you pass go, collect $200.",
-    "Advance to the next railroad. If unowned, you may buy it from the bank. If owned, pay the owner twice the rent to which they are otherwise entitled. If you pass go, collect $200.",
-    "Speeding fine $15.",
-    "Go back three spaces.",
-    "You have been elected chairperson of the board. Pay each player $50.",
-    "Advance to St. Charles Place. If you pass go, collect $200.",
-    "Get out of jail free. This card may be kept until needed, traded, or sold.",
-    "Make general repairs on all your property: For each house pay $25, for each hotel pay $100.",
-    "Advance to go. Collect $200.",
-    "Go to jail. Go directly to jail. Do not pass go, do not collect $200.",
-    "Advance to Illinois Avenue. If you pass go, collect $200.",
-    "Your building loan matures. Collect $150.",
-    "Advance to the nearest utility. If unowned, you may buy it from the bank. If owned, roll dice, and pay owner 10 times your roll."
+    {
+        "name": "Take a trip to reading railroad. If you pass go, collect $200.",
+        "modifier": "board-move",
+        "value": 5
+    },
+    {
+        "name": "Advance to Boardwalk.",
+        "modifier": "board-move",
+        "value": 39
+    },
+    {
+        "name": "Bank pays you dividend of $50.",
+        "modifier": "money",
+        "value": 50
+    },
+    {
+        "name": "Advance to the next railroad. If unowned, you may buy it from the bank. If owned, pay the owner twice the rent to which they are otherwise entitled. If you pass go, collect $200.",
+        "modifier": "move-railroad"
+    },
+    {
+        "name": "Advance to the next railroad. If unowned, you may buy it from the bank. If owned, pay the owner twice the rent to which they are otherwise entitled. If you pass go, collect $200.",
+        "modifier": "move-railroad"
+    },
+    {
+        "name": "Speeding fine $15.",
+        "modifier": "money",
+        "value": -15
+    },
+    {
+        "name": "Go back three spaces.",
+        "modifier": "move",
+        "value": -3
+    },
+    {
+        "name": "You have been elected chairperson of the board. Pay each player $50.",
+        "modifier": "payall",
+        "value": 50
+    },
+    {
+        "name": "Advance to St. Charles Place. If you pass go, collect $200.",
+        "modifier": "board-move",
+        "value": 11
+    },
+    {
+        "name": "Get out of jail free. This card may be kept until needed, traded, or sold.",
+        "modifier": "jail"
+    },
+    {
+        "name": "Make general repairs on all your property: For each house pay $25, for each hotel pay $100.",
+        "modifier": "repairs"
+    },
+    {
+        "name": "Advance to go. Collect $200.",
+        "modifier": "board-move",
+        "value": 0
+    },
+    {
+        "name": "Go to jail. Go directly to jail. Do not pass go, do not collect $200.",
+        "modifier": "board-move",
+        "value": 10
+    },
+    {
+        "name": "Advance to Illinois Avenue. If you pass go, collect $200.",
+        "modifier": "board-move",
+        "value": 24
+    },
+    {
+        "name": "Your building loan matures. Collect $150.",
+        "modifier": "money",
+        "value": 150
+    },
+    {
+        "name": "Advance to the nearest utility. If unowned, you may buy it from the bank. If owned, roll dice, and pay owner 10 times your roll.",
+        "modifier": "move-utility"
+    }
 ]
