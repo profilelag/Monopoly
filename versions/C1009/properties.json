@@ -1,0 +1,270 @@
+[
+    {
+        "name": "Mediterranean Avenue",
+        "color": "brown",
+        "rent": [2,4,10,30,90,160,250],
+        "houseCost": 50,
+        "hotelCost": 50,
+        "mortgage": 30,
+        "unmortgage": 33,
+        "price": 60
+    },
+    {
+        "name": "Baltic Avenue",
+        "color": "brown",
+        "rent": [4,8,20,60,180,320,450],
+        "houseCost": 50,
+        "hotelCost": 50,
+        "mortgage": 30,
+        "unmortgage": 33,
+        "price": 60
+    },
+    {
+        "name": "Vermont Avenue",
+        "color": "lightblue",
+        "rent": [6,12,30,90,270,400,550],
+        "houseCost": 50,
+        "hotelCost": 50,
+        "mortgage": 50,
+        "unmortgage": 55,
+        "price": 100
+    },
+    {
+        "name": "Oriental Avenue",
+        "color": "lightblue",
+        "rent": [6,12,30,90,270,400,550],
+        "houseCost": 50,
+        "hotelCost": 50,
+        "mortgage": 50,
+        "unmortgage": 55,
+        "price": 100
+    },
+    {
+        "name": "Connecticut Avenue",
+        "color": "lightblue",
+        "rent": [8,16,40,100,300,450,600],
+        "houseCost": 50,
+        "hotelCost": 50,
+        "mortgage": 60,
+        "unmortgage": 66,
+        "price": 120
+    },
+    {
+        "name": "St. Charles Place",
+        "color": "pink",
+        "rent": [10,20,50,150,450,625,750],
+        "houseCost": 100,
+        "hotelCost": 100,
+        "mortgage": 70,
+        "unmortgage": 77,
+        "price": 140
+    },
+    {
+        "name": "States Avenue",
+        "color": "pink",
+        "rent": [10,20,50,150,450,625,750],
+        "houseCost": 100,
+        "hotelCost": 100,
+        "mortgage": 70,
+        "unmortgage": 77,
+        "price": 140
+    },
+    {
+        "name": "Virginia Avenue",
+        "color": "pink",
+        "rent": [12,24,60,180,500,700,900],
+        "houseCost": 100,
+        "hotelCost": 100,
+        "mortgage": 80,
+        "unmortgage": 88,
+        "price": 160
+    },
+    {
+        "name": "St. James Place",
+        "color": "orange",
+        "rent": [14,28,70,200,550,750,950],
+        "houseCost": 100,
+        "hotelCost": 100,
+        "mortgage": 90,
+        "unmortgage": 99,
+        "price": 180
+    },
+    {
+        "name": "Tennessee Avenue",
+        "color": "orange",
+        "rent": [14,28,70,200,550,750,950],
+        "houseCost": 100,
+        "hotelCost": 100,
+        "mortgage": 90,
+        "unmortgage": 99,
+        "price": 180
+    },
+    {
+        "name": "New York Avenue",
+        "color": "orange",
+        "rent": [16,32,80,220,600,800,1000],
+        "houseCost": 100,
+        "hotelCost": 100,
+        "mortgage": 100,
+        "unmortgage": 110,
+        "price": 200
+    },
+    {
+        "name": "Illiinois Avenue",
+        "color": "red",
+        "rent": [20,40,100,300,750,925,1100],
+        "houseCost": 150,
+        "hotelCost": 150,
+        "mortgage": 120,
+        "unmortgage": 132,
+        "price": 240
+    },
+    {
+        "name": "Indiana Avenue",
+        "color": "red",
+        "rent": [18,36,90,250,700,875,1050],
+        "houseCost": 150,
+        "hotelCost": 150,
+        "mortgage": 110,
+        "unmortgage": 121,
+        "price": 220
+    },
+    {
+        "name": "Kentucky Avenue",
+        "color": "red",
+        "rent": [18,36,90,250,700,875,1050],
+        "houseCost": 150,
+        "hotelCost": 150,
+        "mortgage": 110,
+        "unmortgage": 121,
+        "price": 220
+    },
+    {
+        "name": "Atlantic Avenue",
+        "color": "yellow",
+        "rent": [22,44,110,330,800,975,1150],
+        "houseCost": 150,
+        "hotelCost": 150,
+        "mortgage": 130,
+        "unmortgage": 143,
+        "price": 260
+    },
+    {
+        "name": "Ventnor Avenue",
+        "color": "yellow",
+        "rent": [22,44,110,330,800,975,1150],
+        "houseCost": 150,
+        "hotelCost": 150,
+        "mortgage": 130,
+        "unmortgage": 143,
+        "price": 260
+    },
+    {
+        "name": "Marvin Gardens",
+        "color": "yellow",
+        "rent": [24,48,120,360,850,1025,1200],
+        "houseCost": 150,
+        "hotelCost": 150,
+        "mortgage": 140,
+        "unmortgage": 154,
+        "price": 280
+    },
+    {
+        "name": "Pacific Avenue",
+        "color": "green",
+        "rent": [26,52,130,390,900,1100,1275],
+        "houseCost": 200,
+        "hotelCost": 200,
+        "mortgage": 150,
+        "unmortgage": 165,
+        "price": 300
+    },
+    {
+        "name": "North Carolina Avenue",
+        "color": "green",
+        "rent": [26,52,130,390,900,1100,1275],
+        "houseCost": 200,
+        "hotelCost": 200,
+        "mortgage": 150,
+        "unmortgage": 165,
+        "price": 300
+    },
+    {
+        "name": "Pennsylvania Avenue",
+        "color": "green",
+        "rent": [28,56,150,450,1000,1200,1400],
+        "houseCost": 200,
+        "hotelCost": 200,
+        "mortgage": 160,
+        "unmortgage": 176,
+        "price": 320
+    },
+    {
+        "name": "Park Place",
+        "color": "blue",
+        "rent": [35,70,175,500,1100,1300,1500],
+        "houseCost": 200,
+        "hotelCost": 200,
+        "mortgage": 175,
+        "unmortgage": 193,
+        "price": 350
+    },
+    {
+        "name": "Boardwalk",
+        "color": "blue",
+        "rent": [50,100,200,600,1400,1700,2000],
+        "houseCost": 200,
+        "hotelCost": 200,
+        "mortgage": 200,
+        "unmortgage": 220,
+        "price": 400
+    },
+    {
+        "name": "Electric Company",
+        "color": "utility",
+        "rent": [4,10],
+        "mortgage": 75,
+        "unmortgage": 83,
+        "price": 150
+    },
+    {
+        "name": "Water Works",
+        "color": "utility",
+        "rent": [4,10],
+        "mortgage": 75,
+        "unmortgage": 83,
+        "price": 150
+    },
+    {
+        "name": "Reading Railroad",
+        "color": "railroad",
+        "rent": [25,50,100,200],
+        "mortgage": 100,
+        "unmortgage": 110,
+        "price": 200
+    },
+    {
+        "name": "Pennsylvania Railroad",
+        "color": "railroad",
+        "rent": [25,50,100,200],
+        "mortgage": 100,
+        "unmortgage": 110,
+        "price": 200
+    },
+    {
+        "name": "B. & O. Railroad",
+        "color": "railroad",
+        "rent": [25,50,100,200],
+        "mortgage": 100,
+        "unmortgage": 110,
+        "price": 200
+    },
+    {
+        "name": "Short Line",
+        "color": "railroad",
+        "rent": [25,50,100,200],
+        "mortgage": 100,
+        "unmortgage": 110,
+        "price": 200
+    }
+]
